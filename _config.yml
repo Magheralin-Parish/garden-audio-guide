@@ -10,7 +10,7 @@ title: Angels Among Us Audio Guide
 email: jamieh911@hotmail.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   An audio guide for your visit to Angels Among Us.
-baseurl: "/angels-audio-guide" # the subpath of your site, e.g. /blog
+baseurl: "/garden-audio-guide" # the subpath of your site, e.g. /blog
 audio_path: "/audio/"
 episode_hero_path: "/assets/img/stops/"
 url: "https://haughters.github.io" # the base hostname & protocol for your site
